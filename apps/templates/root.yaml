@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://github.com/vumay/argo-cd-trainig.git
+    repoURL: https://github.com/vumay/argo-cd-training.git
     targetRevision: HEAD
   syncPolicy:
     automated:
