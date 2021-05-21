@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: charts/argocd
-    repoURL: https://github.com/arthurk/argocd-training.git
+    repoURL: https://github.com/vumay/argocd-training.git
     targetRevision: HEAD
   syncPolicy:
     automated:
